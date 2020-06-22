@@ -1,2 +1,17 @@
 # React-Next-Level
-Next Level Week - Rocketseat
+> Cadastro e listagem de pontos de coletas
+
+## Instalação
+
+OS X & Linux:
+
+```sh
+npm install 
+```
+
+## Meta
+
+Roberto Teixeira 
+
+
+
